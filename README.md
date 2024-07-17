@@ -11,23 +11,30 @@ meaningful dialogue.</h5>
 
 <h1>Screenshots</h1>
 <h5>Pre-Loader</h5>
-<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125543.jpg"/>
+<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125543.jpg"
+height="50" width="50"/>
 
 <h5>Welcome Page</h5>
-<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125715.jpg"/>
+<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125715.jpg"
+height="50" width="50"/>
 
 <h5>User Request & Response</h5>
-<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125603.jpg"/>
+<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125603.jpg"
+height="50" width="50"/>
 
 <h5>Sample Responses</h5>
-<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125517.jpg "/>
-<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125455.jpg "/>
+<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125517.jpg "
+height="50" width="50"/>
+<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125455.jpg "
+height="50" width="50"/>
 
 
 <h5>Responsive for All Respective Devices</h5>
 <h6>Mobile</h6>
-<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125424.jpg"/>
+<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125424.jpg"
+height="50" width="50"/>
 
 <h6>Tablet</h6>
-<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125339.jpg "/>
+<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125339.jpg "
+height="50" width="50"/>
 
