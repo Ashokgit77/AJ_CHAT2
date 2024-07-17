@@ -1,2 +1,5 @@
-flask
+Flask
+markdown2
+python-dotenv
+google-generativeai
 Gunicorn
