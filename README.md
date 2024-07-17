@@ -26,5 +26,5 @@ meaningful dialogue.</h5>
 ![IMG_20240717_125424](https://github.com/user-attachments/assets/14778f37-d300-4ce2-ad0d-584badfd31b1)
 
 <h6>Tablet</h6>
-![IMG_20240717_125339](https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125339.jpg)
+![IMG_20240717_125339](https://raw.githubusercontent.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125339.jpg)
 
