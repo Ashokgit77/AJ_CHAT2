@@ -11,7 +11,7 @@ meaningful dialogue.</h5>
 
 <h1>Screenshots</h1>
 <h5>Pre-Loader</h5>
-![IMG_20240717_125543](https://github.com/user-attachments/assets/1b917150-abb2-42c5-a867-f91c9fb88124)
+![IMG_20240717_125543](https://github.com/user-attachments/assets/de06a285-77e8-4e5a-941b-7f8c6c121f2f)
 
 <h5>Welcome Page</h5>
 ![IMG_20240717_125715](https://github.com/user-attachments/assets/6162fa5e-8071-4ea8-81ee-a35e7dbfc295)
