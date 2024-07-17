@@ -17,7 +17,7 @@ meaningful dialogue.</h5>
 <img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125715.jpg"/>
 
 <h5>User Request & Response</h5>
-<img src=" https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125603.jpg"/>
+<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125603.jpg"/>
 
 <h5>Sample Responses</h5>
 <img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125517.jpg "/>
@@ -26,7 +26,7 @@ meaningful dialogue.</h5>
 
 <h5>Responsive for All Respective Devices</h5>
 <h6>Mobile</h6>
-<img src=" https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125424.jpg"/>
+<img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125424.jpg"/>
 
 <h6>Tablet</h6>
 <img src="https://github.com/Ashokgit77/AJ_CHAT2/blob/main/images%2FIMG_20240717_125339.jpg "/>
